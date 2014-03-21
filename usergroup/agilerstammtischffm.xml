@@ -19,14 +19,16 @@
 
         Getränke und Essen werden von codecentric AG gesponsert.
     </description>
-    <url>https://www.xing.com/net/pri5328c8x/as-frankfurt</url>
+    <url>http://asffm.blogspot.de/</url>
     <tags>
         <tag>Agile</tag>
         <tag>Scrum</tag>
         <tag>Kanban</tag>
     </tags>
     <contact>
+        <twitter>@as_ffm</twitter>           
         <hashtag>#agileFFM</hashtag>
+        <xing>https://www.xing.com/net/pri5328c8x/as-frankfurt</xing>
     </contact>
     <defaultmeetinglocation>
         <name>Die Zentrale</name>
